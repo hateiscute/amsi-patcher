@@ -1,0 +1,14 @@
+C:\Users\hate1337\source\repos\asmi\asmi\bin\Release\net6.0\asmi.exe
+C:\Users\hate1337\source\repos\asmi\asmi\bin\Release\net6.0\asmi.deps.json
+C:\Users\hate1337\source\repos\asmi\asmi\bin\Release\net6.0\asmi.runtimeconfig.json
+C:\Users\hate1337\source\repos\asmi\asmi\bin\Release\net6.0\asmi.dll
+C:\Users\hate1337\source\repos\asmi\asmi\bin\Release\net6.0\asmi.pdb
+C:\Users\hate1337\source\repos\asmi\asmi\obj\Release\net6.0\asmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hate1337\source\repos\asmi\asmi\obj\Release\net6.0\asmi.AssemblyInfoInputs.cache
+C:\Users\hate1337\source\repos\asmi\asmi\obj\Release\net6.0\asmi.AssemblyInfo.cs
+C:\Users\hate1337\source\repos\asmi\asmi\obj\Release\net6.0\asmi.csproj.CoreCompileInputs.cache
+C:\Users\hate1337\source\repos\asmi\asmi\obj\Release\net6.0\asmi.dll
+C:\Users\hate1337\source\repos\asmi\asmi\obj\Release\net6.0\refint\asmi.dll
+C:\Users\hate1337\source\repos\asmi\asmi\obj\Release\net6.0\asmi.pdb
+C:\Users\hate1337\source\repos\asmi\asmi\obj\Release\net6.0\asmi.genruntimeconfig.cache
+C:\Users\hate1337\source\repos\asmi\asmi\obj\Release\net6.0\ref\asmi.dll
